@@ -13,14 +13,5 @@ Afisarea tablei de joc in consola
 Verificarea conditiilor de castig  
 Detectarea remizei  
 
-Cum se ruleaza:
-
-Compilare:
-g++ main.cpp -o joc
-
-Rulare:
-./joc
-
-Prin realizarea acestui proiect am exersat lucrul cu matrice, structuri de control si organizarea unui program mai complex in C++.
 
 Autor: Iacob Andra
