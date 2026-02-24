@@ -1,37 +1,26 @@
-# X și 0 (Tic Tac Toe) în C++
+# X si 0 – C++
 
-Acesta este un joc simplu de X și 0 realizat în C++, care rulează în consolă și permite jocul între doi jucători.
+Acest proiect reprezinta implementarea jocului X si 0 in C++. Jocul ruleaza in consola si permite participarea a doi jucatori.
 
-## 📌 Descriere
+Descriere:
 
-Jocul se desfășoară pe o tablă 3x3. Cei doi jucători introduc pe rând pozițiile unde doresc să plaseze simbolul lor (X sau 0). Programul verifică automat dacă există un câștigător sau dacă jocul se termină la egalitate.
+Jocul se desfasoara pe o tabla de 3x3. Cei doi jucatori introduc pe rand pozitia unde doresc sa plaseze simbolul lor. Programul verifica dupa fiecare mutare daca exista un castigator sau daca partida s-a incheiat la egalitate.
 
-## 🎮 Funcționalități
+Functionalitati:
 
-- Joc pentru 2 jucători
-- Verificare automată a câștigătorului
-- Detectare remiză
-- Interfață simplă în consolă
-- Validare mutări
+Joc pentru doi jucatori  
+Afisarea tablei de joc in consola  
+Verificarea conditiilor de castig  
+Detectarea remizei  
 
-## 🛠 Tehnologii folosite
+Cum se ruleaza:
 
-- Limbaj: C++
-- Compilare cu g++
-
-## ▶️ Cum se rulează
-
-### 1. Compilare:
-```
+Compilare:
 g++ main.cpp -o joc
-```
 
-### 2. Rulare:
-```
+Rulare:
 ./joc
-```
 
+Prin realizarea acestui proiect am exersat lucrul cu matrice, structuri de control si organizarea unui program mai complex in C++.
 
-## 👤 Autor
-
-Iacob Andra
+Autor: Iacob Andra
